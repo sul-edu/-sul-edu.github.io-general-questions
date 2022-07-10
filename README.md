@@ -1,2 +1,2 @@
 # general-questions
- showing question. hard coded question, answer will show with the button click
+ showing hard coded question, answer will show with the toggle button click
